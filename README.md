@@ -6,14 +6,14 @@
 </a>
 
 
-<a class="heading-link" href="#tecnologias">Tecnologias:</a>
+<a>#Tecnologias:</a>
 
 
 
-<a class="heading-link" href="#redes-sociais">Redes Sociais:</a>
+<a>#Redes Sociais:</a>
 
 
-<a class="heading-link" href="#certificados">Certificados:</a>
+<a>#Cerficiados:</a>
 
 
 
