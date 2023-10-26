@@ -16,7 +16,7 @@
 <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <!-- JavaScript -->
 <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" /> <!-- Ruby -->
 <img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <!-- Linux -->
-<img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> <!-- CRM Dynamics -->
+<img height= 50 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dynamics365-color.svg" /> <!-- CRM Dynamics -->
 
 
 
