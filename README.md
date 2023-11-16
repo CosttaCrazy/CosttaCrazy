@@ -1,7 +1,7 @@
-<a href="https://github.com/mcosttaoficial/github-readme-stats">
+<a href="https://github.com/mcosttaoficial/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mcosttaoficial&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/mcosttaoficial/convoychat">
+<a href="https://github.com/mcosttaoficial/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcosttaoficial&layout=compact&langs_count=8&card_width=200&theme=dark" />
 </a>
 <br> </br>
