@@ -45,6 +45,6 @@
 <a href="#">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://github.com/mcosttaoficial">
   <img align="center" src="https://img.shields.io/github/followers/mcosttaoficial.svg?style=social&label=Follow&maxAge=2592000" />
 </a>
