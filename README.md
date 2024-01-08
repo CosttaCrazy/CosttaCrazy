@@ -21,7 +21,7 @@
 
 <a>#Cerficiados:</a>
 
-<img height= 35 src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" /> <!-- Loading -->
+<img height= 55 src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /> <!-- Loading -->
 
 <!--
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
