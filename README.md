@@ -1,6 +1,7 @@
 <a href="https://github.com/mcosttaoficial/">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mcosttaoficial&theme=dark&show_icons=true" />
 </a>
+
 <a href="https://github.com/mcosttaoficial/">
    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcosttaoficial&layout=compact&langs_count=10&card_width=200&theme=dark" />
 </a>
