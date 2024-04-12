@@ -1,9 +1,9 @@
-<a href="https://github.com/mcosttaoficial/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mcosttaoficial&theme=dark&show_icons=true" />
+<a href="https://github.com/CosttaCrazy/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=CosttaCrazy&theme=dark&show_icons=true" />
 </a>
 
-<a href="https://github.com/mcosttaoficial/">
-   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcosttaoficial&layout=compact&langs_count=10&card_width=150&theme=dark" />
+<a href="https://github.com/CosttaCrazy/">
+   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CosttaCrazy&layout=compact&langs_count=10&card_width=150&theme=dark" />
 </a>
 <br> </br>
 
@@ -46,6 +46,13 @@
 <a href="#">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://github.com/mcosttaoficial">
-  <img align="center" src="https://img.shields.io/github/followers/mcosttaoficial.svg?style=social&label=Follow&maxAge=2592000" />
+<a href="https://github.com/CosttaCrazy">
+  <img align="center" src="https://img.shields.io/github/followers/CosttaCrazy.svg?style=social&label=Follow&maxAge=2592000" />
 </a>
+
+<center>
+<a href="https://www.buymeacoffee.com/costtait">
+  <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg?style=flat&logo=buymeacoffee" />
+</a>
+</center>
+
