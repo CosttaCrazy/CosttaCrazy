@@ -22,7 +22,7 @@
 
   <!-- Streaks -->
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://streak-stats.demolab.com/?user=costtacrazy&theme=dark" />
+    <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=costtacrazy&theme=tokyonight" />
   </a>
 
   <!-- Trophies -->
