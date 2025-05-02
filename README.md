@@ -14,15 +14,15 @@
 
   <!-- Estatísticas gerais -->
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=CosttaCrazy&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=CosttaCrazy&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=60" />
   </a>
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=CosttaCrazy&layout=compact&langs_count=10&theme=dark&hide_border=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=CosttaCrazy&layout=compact&langs_count=10&theme=dark&hide_border=true&cache_seconds=60" />
   </a>
 
   <!-- Streaks -->
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=CosttaCrazy&theme=dark&hide_border=true" />
+    <img height="160" src="https://streak-stats.demolab.com/?user=costtacrazy&theme=dark" />
   </a>
 
   <!-- Trophies -->
@@ -32,7 +32,7 @@
 
   <!-- Gráfico de atividades -->
   <a href="https://github.com/CosttaCrazy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosttaCrazy&theme=github-compact&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosttaCrazy&theme=github-compact&hide_border=true&cache_seconds=60" />
   </a>
 
 </div>
