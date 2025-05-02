@@ -14,10 +14,10 @@
 
   <!-- Estatísticas gerais -->
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=CosttaCrazy&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=60" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=CosttaCrazy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&cache_seconds=60" />
   </a>
   <a href="https://github.com/CosttaCrazy">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=CosttaCrazy&layout=compact&langs_count=10&theme=dark&hide_border=true&cache_seconds=60" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=CosttaCrazy&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=60" />
   </a>
 
   <!-- Streaks -->
