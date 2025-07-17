@@ -157,8 +157,8 @@ spec:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosttaCrazy&repo=aws-terraform-modules&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/CosttaCrazy/redis-helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosttaCrazy&repo=kubernetes-security-toolkit&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/CosttaCrazy/SecBridge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosttaCrazy&repo=redis-helper&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/CosttaCrazy/redis-helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosttaCrazy&repo=SecBridge&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/CosttaCrazy/SecBridge)
 
 </div>
 
